@@ -1,0 +1,12 @@
+D:\HTL\5BHIF\POSE\C#\Uebungen\Uebung_1_AnagramChecker\Anagramchecker\Anagramchecker\bin\Debug\netcoreapp2.1\Anagramchecker.deps.json
+D:\HTL\5BHIF\POSE\C#\Uebungen\Uebung_1_AnagramChecker\Anagramchecker\Anagramchecker\bin\Debug\netcoreapp2.1\Anagramchecker.runtimeconfig.json
+D:\HTL\5BHIF\POSE\C#\Uebungen\Uebung_1_AnagramChecker\Anagramchecker\Anagramchecker\bin\Debug\netcoreapp2.1\Anagramchecker.runtimeconfig.dev.json
+D:\HTL\5BHIF\POSE\C#\Uebungen\Uebung_1_AnagramChecker\Anagramchecker\Anagramchecker\bin\Debug\netcoreapp2.1\Anagramchecker.dll
+D:\HTL\5BHIF\POSE\C#\Uebungen\Uebung_1_AnagramChecker\Anagramchecker\Anagramchecker\bin\Debug\netcoreapp2.1\Anagramchecker.pdb
+D:\HTL\5BHIF\POSE\C#\Uebungen\Uebung_1_AnagramChecker\Anagramchecker\Anagramchecker\obj\Debug\netcoreapp2.1\Anagramchecker.csprojAssemblyReference.cache
+D:\HTL\5BHIF\POSE\C#\Uebungen\Uebung_1_AnagramChecker\Anagramchecker\Anagramchecker\obj\Debug\netcoreapp2.1\Anagramchecker.csproj.CoreCompileInputs.cache
+D:\HTL\5BHIF\POSE\C#\Uebungen\Uebung_1_AnagramChecker\Anagramchecker\Anagramchecker\obj\Debug\netcoreapp2.1\Anagramchecker.AssemblyInfoInputs.cache
+D:\HTL\5BHIF\POSE\C#\Uebungen\Uebung_1_AnagramChecker\Anagramchecker\Anagramchecker\obj\Debug\netcoreapp2.1\Anagramchecker.AssemblyInfo.cs
+D:\HTL\5BHIF\POSE\C#\Uebungen\Uebung_1_AnagramChecker\Anagramchecker\Anagramchecker\obj\Debug\netcoreapp2.1\Anagramchecker.dll
+D:\HTL\5BHIF\POSE\C#\Uebungen\Uebung_1_AnagramChecker\Anagramchecker\Anagramchecker\obj\Debug\netcoreapp2.1\Anagramchecker.pdb
+D:\HTL\5BHIF\POSE\C#\Uebungen\Uebung_1_AnagramChecker\Anagramchecker\Anagramchecker\bin\Debug\netcoreapp2.1\dictionary.txt
